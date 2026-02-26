@@ -1,0 +1,8 @@
+:root {
+  --color-background: #f9fafb;
+  --color-text: #1f2937;
+}
+
+body {
+  @apply bg-color-background text-color-text;
+}
